@@ -1,0 +1,34 @@
+c:\users\aumkar mali\documents\visual studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.exe.config
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.exe
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.pdb
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.xml
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.Resources.resources
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.vbproj.GenerateResource.Cache
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.exe
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.xml
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.pdb
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.frmIntro.resources
+C:\Users\Aumkar Mali\Documents\Visual Studio 2013\Projects\AumkarVelocityGame\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.frmFractionGame.resources
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.exe.config
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.exe
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.xml
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.pdb
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.exe
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.pdb
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.xml
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.frmIntro.resources
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.frmFractionGame.resources
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.Resources.resources
+C:\Users\708514\Downloads\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.vbproj.GenerateResource.Cache
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.exe.config
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.exe
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.xml
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.pdb
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.exe
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.pdb
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\bin\Debug\AumkarVelocityGame.xml
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.frmIntro.resources
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.frmFractionGame.resources
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.Resources.resources
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.vbproj.GenerateResource.Cache
+C:\Users\Aumkar Mali\Downloads\AumkarVelocityGame-20220606T121327Z-001-20220607T204706Z-001\AumkarVelocityGame-20220606T121327Z-001\AumkarVelocityGame\obj\Debug\AumkarVelocityGame.frmSettings.resources
